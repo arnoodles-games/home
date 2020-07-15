@@ -1,2 +1,2 @@
-# site
+# privacy - policy
 arnoodles-games website
