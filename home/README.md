@@ -1,2 +1,2 @@
-# site
+# HOME
 arnoodles-games website
